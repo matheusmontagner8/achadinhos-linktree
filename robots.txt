@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matheusmontagner8.github.io/achadinhos-linktree/sitemap.xml
