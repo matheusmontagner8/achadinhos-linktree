@@ -23,7 +23,7 @@ Abra o `index.html` em qualquer editor de texto.
 
 1. Vá em **Settings → Pages** neste repositório.
 2. Em **Source**, selecione a branch `main` e a pasta `/ (root)`.
-3. Salve. Em alguns minutos o site fica disponível em `https://matheusmontagner8.github.io/achadinhos-linktree/`.
+3. Salve. Em alguns minutos o site fica disponível.
 
 ---
 
