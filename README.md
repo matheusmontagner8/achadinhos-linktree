@@ -1,4 +1,4 @@
-# Achadinhos Mais — Link na Bio
+# Achadinhos Mais 
 
 Página única (estilo Linktree) para centralizar os links do **Achadinhos Mais**: canal do WhatsApp, Instagram, vitrine de afiliado e X.
 
