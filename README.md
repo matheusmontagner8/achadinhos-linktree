@@ -1,6 +1,6 @@
 # Achadinhos Mais 
 
-Página única (estilo Linktree) para centralizar os links do **Achadinhos Mais**: canal do WhatsApp, Instagram, vitrine de afiliado e X.
+Página única para centralizar os links do **Achadinhos Mais**: canal do WhatsApp, Instagram, vitrine de afiliado e X.
 
 🔗 **Preview:** https://claude.ai/code/artifact/f05c3ad6-ad2d-4742-8ae4-230a1bd11540
 
